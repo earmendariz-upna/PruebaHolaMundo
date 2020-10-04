@@ -18,7 +18,7 @@ public class PruebaHolaMundo {
         System.out.println("Hola Mundo"); 
         Mensaje m = new Mensaje();
         System.out.println("*** Despues de crear la instancia de Mensaje");
-        System.out.println("Mensaje: " + m.mensajes);
+        System.out.println("Mensaje: " + m.mensaje);
     }
     
 }
